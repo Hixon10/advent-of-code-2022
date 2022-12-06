@@ -8,6 +8,7 @@ public class Program
         // Day2.Solve(args);
         // Day3.Solve(args);
         // Day4.Solve(args);
-        Day5.Solve(args);
+        // Day5.Solve(args);
+        Day6.Solve(args);
     }
 }
